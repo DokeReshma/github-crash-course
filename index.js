@@ -3,4 +3,5 @@ const name = "reshma doke"
 const don ="01/01/2024"
 function newFeatureAdd(){
     console.log('This is new car')
+    console.log('This is a new feat A')
 }
